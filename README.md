@@ -2,7 +2,11 @@
 
 
 <h1>Project Name</h1>
-<p>PERSONAL WALLET</p>
+<h6>Personal Wallet</h6>
+<h6>Online wallet Dashboard<h6/>
+
+<h2>Link to site</h2>
+<p>https://bank-wallet.netlify.app/<p/>
 
 <h2>General Information</h2>
 <ul>
