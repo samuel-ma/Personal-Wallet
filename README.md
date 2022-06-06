@@ -2,7 +2,7 @@
 
 
 <h1>Project Name</h1>
-<p>GO WIGGS </p>
+<p>PERSONAL WALLET</p>
 
 <h2>General Information</h2>
 <ul>
